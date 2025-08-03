@@ -3,7 +3,7 @@
 
 
 ## 💫 About Me:
-🔭 Actualmente estoy trabajando en: mejorar mis habilidades en desarrollo backend y bases de datos.<br>🌱 Actualmente estoy aprendiendo: nuevas tecnologías como React, Node.js y ciencias de datos.<br>👯 Estoy buscando colaborar en: proyectos de software multiplataforma o desarrollo web.<br>🤔 Busco ayuda con: optimización de rendimiento en aplicaciones grandes.<br>💬 Pregúntame sobre: desarrollo web.<br>📫 Cómo contactarme: puedes enviarme un correo a montserratlozano92@gmail.com.<br>😄 Pronombres: ella.<br>⚡ Dato curioso: ¡Soy fanática de los mangas y el café!
+🔭 Actualmente estoy trabajando en: mejorar mis habilidades en desarrollo backend y bases de datos.<br>🌱 Actualmente estoy aprendiendo: nuevas tecnologías como React, Node.js y ciencias de datos.<br>👯 Estoy buscando colaborar en: proyectos de software multiplataforma o desarrollo web.<br>🤔 Busco ayuda con: optimización de rendimiento en aplicaciones grandes.<br>💬 Pregúntame sobre: desarrollo web.<br>📫 Cómo contactarme: puedes enviarme un correo a montserratlozano03@gmail.com.<br>😄 Pronombres: ella.<br>⚡ Dato curioso: ¡Soy fanática de los mangas y el café!
 
 
 
